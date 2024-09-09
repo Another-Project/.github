@@ -1,6 +1,6 @@
 # Another-Project 🚀
 
-**Debugged By Default**  
+**DebuggedByDefault**  
 *Crafting Excellence in Software Development and System Integration*
 
 ---
@@ -10,8 +10,6 @@
 We are a dynamic team of software developers and system integrators committed to delivering high-quality, reliable solutions. Our focus spans a wide range of technologies and practices, ensuring that every project we undertake is robust, scalable, and "debugged by default."
 
 ### About Us
-- **Owner:** [ColdByDefault](https://github.com/ColdByDefault)
-- **Slogan:** Debugged By Default
 - **Mission:** To integrate and develop cutting-edge software solutions that exceed expectations.
 
 ### What We Do 🛠️
