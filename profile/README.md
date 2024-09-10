@@ -31,7 +31,7 @@ Interested in collaborating or contributing to our projects? Feel free to explor
 
 ### Connect With Us 🌐
 - **GitHub:** [Another-Project](https://github.com/Another-Project)
-- **Owner:** [ColdByDefault](https://github.com/ColdByDefault)
+- [ColdByDefault](https://github.com/ColdByDefault)
 
 ---
 
